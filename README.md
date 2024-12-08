@@ -1,6 +1,6 @@
 "So, you want to hear another story, eh?" -Marcus, second best Borderlands character (Because let's face it, no one's beating Tannis)
 
-Well this one's about a wee little guy called MessiahOfDoom, also known as June.
+Well this one's about a wee little lass called MessiahOfDoom, also known as June.
 I started Programming almost immediately after picking up my first PC, and have been going "strong" ever since. I mainly focus on Java, but know _**many**_ more Languages.
 
 
